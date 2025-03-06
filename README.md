@@ -1,10 +1,6 @@
 # Hi there 👋
 
-I am a PhD student at [Imperial College London](https://www.imperial.ac.uk) in the [Adaptive and Intelligent Robotics](https://www.imperial.ac.uk/adaptive-intelligent-robotics/) lab. I am interested in
-- 🧠 Artificial Intelligence
-- ✨ Open-endedness
-- 🦾 Robotics
-- 🦎 Artificial Life
+I am a PhD student at [Imperial College London](https://www.imperial.ac.uk) in the [Adaptive and Intelligent Robotics](https://www.imperial.ac.uk/adaptive-intelligent-robotics/) lab. I am interested in 🧠 Artificial Intelligence ✨ Open-endedness 🦾 Robotics 🦎 Emergence.
 
 ## Check out my website
 <p><a href="https://maxencefaldor.github.io" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
