@@ -32,7 +32,7 @@ I am passionate about building intelligent systems that can learn, discover, and
 	</tr>
 	<tr>
 		<td valign="top" style="padding-bottom: 16px;">
-			<a href="#"><img alt="ai-cuda-engineer" src="https://github.com/user-attachments/assets/afe3a9a6-da5c-48fb-9654-9592e13a2536" width="180"></a>
+			<a href="#"><img alt="ai-cuda-engineer" src="https://github.com/user-attachments/assets/027a58b5-69d2-4d52-b4ed-2e984b0c71e4" width="180"></a>
 		</td>
 		<td valign="top" style="padding-bottom: 16px;">
 			<strong>The AI CUDA Engineer: Agentic CUDA kernel discovery, optimization and composition</strong>
@@ -57,28 +57,28 @@ I am passionate about building intelligent systems that can learn, discover, and
 	</tr>
 	<tr>
 		<td valign="top" style="padding-bottom: 16px;">
-			<a href="#"><img alt="leniabreeder" src="https://github.com/user-attachments/assets/4d3da82a-e98b-490d-abd2-7247e1ebe064" width="180"></a>
+			<a href="#"><img alt="leniabreeder" src="https://github.com/user-attachments/assets/e984b7aa-9171-4772-94e6-1927f7319cdd" width="180"></a>
 		</td>
 		<td valign="top" style="padding-bottom: 16px;">
 			<strong>Toward Artificial Open-Ended Evolution within Lenia using Quality-Diversity</strong>
-			<br><br>
-			<a href="#"><img alt="Paper" src="https://img.shields.io/badge/Paper-B31B1B?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" /></a>
-			<a href="#"><img alt="Code" src="https://img.shields.io/badge/Code-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
-			<a href="#"><img alt="Website" src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-			<a href="#"><img alt="Post" src="https://img.shields.io/badge/Post-000000?style=for-the-badge&logo=X&logoColor=white" /></a>
-		</td>
-	</tr>
-	<tr>
-		<td valign="top" style="padding-bottom: 16px;">
-			<a href="#"><img alt="cax-ezgif com-optimize" src="https://github.com/user-attachments/assets/d84b3b46-e00e-4b4a-877d-c1b7d8b7b3c0" width="180"></a>
-		</td>
-		<td valign="top" style="padding-bottom: 16px;">
-			<strong>CAX: Cellular Automata Accelerated in JAX</strong>
 			<br><br>
 			<a href="https://arxiv.org/abs/2406.04235"><img alt="Paper" src="https://img.shields.io/badge/Paper-B31B1B?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" /></a>
 			<a href="https://github.com/maxencefaldor/Leniabreeder"><img alt="Code" src="https://img.shields.io/badge/Code-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
 			<a href="https://leniabreeder.github.io/"><img alt="Website" src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 			<a href="https://x.com/maxencefaldor/status/1803803486179434642"><img alt="Post" src="https://img.shields.io/badge/Post-000000?style=for-the-badge&logo=X&logoColor=white" /></a>
+		</td>
+	</tr>
+	<tr>
+		<td valign="top" style="padding-bottom: 16px;">
+			<a href="#"><img alt="cax-ezgif com-optimize" src="https://github.com/user-attachments/assets/552a7da5-ad4d-4f9d-ba83-8c78469de2a6" width="180"></a>
+		</td>
+		<td valign="top" style="padding-bottom: 16px;">
+			<strong>CAX: Cellular Automata Accelerated in JAX</strong>
+			<br><br>
+			<a href="https://arxiv.org/abs/2410.02651"><img alt="Paper" src="https://img.shields.io/badge/Paper-B31B1B?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" /></a>
+			<a href="https://github.com/maxencefaldor/cax"><img alt="Code" src="https://img.shields.io/badge/Code-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
+			<a href="https://colab.research.google.com/github/maxencefaldor/cax/blob/main/examples/00_getting_started.ipynb"><img alt="Website" src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+			<a href="https://x.com/maxencefaldor/status/1842211478796918945"><img alt="Post" src="https://img.shields.io/badge/Post-000000?style=for-the-badge&logo=X&logoColor=white" /></a>
 		</td>
 	</tr>
 </table>
