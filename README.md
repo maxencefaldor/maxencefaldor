@@ -13,96 +13,74 @@ I am passionate about building intelligent systems that can learn, discover, and
 ---
 
 <table>
-  <tr>
-    <td width="200" valign="top">
-      <a href="#"><img alt="OMNI-EPIC GIF" src="https://github.com/user-attachments/assets/f927e05d-eb4a-4588-b83e-017222da7022" />
-      </a>
-    </td>
-    <td valign="top">
-      <strong>OMNI-EPIC: Open-endedness via Models of human Notions of Interestingness with Environments Programmed in Code</strong>
-      <br><br>
-      <a href="#"><img alt="Paper" src="https://img.shields.io/badge/Paper-B31B1B?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" /></a>
-      <a href="#"><img alt="Code" src="https://img.shields.io/badge/Code-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
-      <a href="#"><img alt="Website" src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-      <a href="#"><img alt="Post" src="https://img.shields.io/badge/Post-000000?style=for-the-badge&logo=X&logoColor=white" /></a>
-    </td>
-  </tr>
-</table>
-
----
-
-<table>
-  <tr>
-    <td width="200" valign="top">
-      <a href="#"><img alt="ai-cuda-engineer" src="https://github.com/user-attachments/assets/afe3a9a6-da5c-48fb-9654-9592e13a2536" />
-      </a>
-    </td>
-    <td valign="top">
-      <strong>The AI CUDA Engineer: Agentic CUDA kernel discovery, optimization and composition</strong>
-      <br><br>
-      <a href="#"><img alt="Paper" src="https://img.shields.io/badge/Paper-B31B1B?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" /></a>
-      <a href="#"><img alt="Code" src="https://img.shields.io/badge/Code-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
-      <a href="#"><img alt="Website" src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-      <a href="#"><img alt="Post" src="https://img.shields.io/badge/Post-000000?style=for-the-badge&logo=X&logoColor=white" /></a>
-    </td>
-  </tr>
-</table>
-
----
-
-<table>
-  <tr>
-    <td width="200" valign="top">
-      <a href="#"><img alt="learned-qd" src="https://github.com/user-attachments/assets/2596669e-66cf-4b40-bd0e-c79532a342d0" />
-      </a>
-    </td>
-    <td valign="top">
-      <strong>Discovering Quality-Diversity Algorithms via Meta-Black-Box Optimization</strong>
-      <br><br>
-      <a href="#"><img alt="Paper" src="https://img.shields.io/badge/Paper-B31B1B?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" /></a>
-      <a href="#"><img alt="Code" src="https://img.shields.io/badge/Code-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
-      <a href="#"><img alt="Website" src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-      <a href="#"><img alt="Post" src="https://img.shields.io/badge/Post-000000?style=for-the-badge&logo=X&logoColor=white" /></a>
-    </td>
-  </tr>
-</table>
-
----
-
-<table>
-  <tr>
-    <td width="200" valign="top">
-      <a href="#"><img alt="leniabreeder" src="https://github.com/user-attachments/assets/4d3da82a-e98b-490d-abd2-7247e1ebe064" />
-      </a>
-    </td>
-    <td valign="top">
-      <strong>Toward Artificial Open-Ended Evolution within Lenia using Quality-Diversity</strong>
-      <br><br>
-      <a href="#"><img alt="Paper" src="https://img.shields.io/badge/Paper-B31B1B?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" /></a>
-      <a href="#"><img alt="Code" src="https://img.shields.io/badge/Code-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
-      <a href="#"><img alt="Website" src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-      <a href="#"><img alt="Post" src="https://img.shields.io/badge/Post-000000?style=for-the-badge&logo=X&logoColor=white" /></a>
-    </td>
-  </tr>
-</table>
-
----
-
-<table>
-  <tr>
-    <td width="200" valign="top">
-      <a href="#"><img alt="cax-ezgif com-optimize" src="https://github.com/user-attachments/assets/d84b3b46-e00e-4b4a-877d-c1b7d8b7b3c0" />
-      </a>
-    </td>
-    <td valign="top">
-      <strong>CAX: Cellular Automata Accelerated in JAX</strong>
-      <br><br>
-      <a href="#"><img alt="Paper" src="https://img.shields.io/badge/Paper-B31B1B?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" /></a>
-      <a href="#"><img alt="Code" src="https://img.shields.io/badge/Code-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
-      <a href="#"><img alt="Website" src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-      <a href="#"><img alt="Post" src="https://img.shields.io/badge/Post-000000?style=for-the-badge&logo=X&logoColor=white" /></a>
-    </td>
-  </tr>
+	<colgroup>
+		<col width="200">
+		<col>
+	</colgroup>
+	<tr>
+		<td valign="top" style="padding-bottom: 16px;">
+			<a href="#"><img alt="OMNI-EPIC GIF" src="https://github.com/user-attachments/assets/f927e05d-eb4a-4588-b83e-017222da7022" width="180"></a>
+		</td>
+		<td valign="top" style="padding-bottom: 16px;">
+			<strong>OMNI-EPIC: Open-endedness via Models of human Notions of Interestingness with Environments Programmed in Code</strong>
+			<br><br>
+			<a href="https://arxiv.org/abs/2405.15568"><img alt="Paper" src="https://img.shields.io/badge/Paper-B31B1B?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" /></a>
+			<a href="https://github.com/maxencefaldor/omni-epic"><img alt="Code" src="https://img.shields.io/badge/Code-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
+			<a href="https://www.jennyzhangzt.com/omni-epic"><img alt="Website" src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+			<a href="https://x.com/jeffclune/status/1795787632435212732"><img alt="Post" src="https://img.shields.io/badge/Post-000000?style=for-the-badge&logo=X&logoColor=white" /></a>
+		</td>
+	</tr>
+	<tr>
+		<td valign="top" style="padding-bottom: 16px;">
+			<a href="#"><img alt="ai-cuda-engineer" src="https://github.com/user-attachments/assets/afe3a9a6-da5c-48fb-9654-9592e13a2536" width="180"></a>
+		</td>
+		<td valign="top" style="padding-bottom: 16px;">
+			<strong>The AI CUDA Engineer: Agentic CUDA kernel discovery, optimization and composition</strong>
+			<br><br>
+			<a href="https://pub.sakana.ai/static/paper.pdf"><img alt="Paper" src="https://img.shields.io/badge/Paper-B31B1B?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" /></a>
+			<a href="#"><img alt="Code" src="https://img.shields.io/badge/Code-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
+			<a href="https://pub.sakana.ai/ai-cuda-engineer"><img alt="Website" src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+			<a href="https://x.com/SakanaAILabs/status/1892385766510338559"><img alt="Post" src="https://img.shields.io/badge/Post-000000?style=for-the-badge&logo=X&logoColor=white" /></a>
+		</td>
+	</tr>
+	<tr>
+		<td valign="top" style="padding-bottom: 16px;">
+			<a href="#"><img alt="learned-qd" src="https://github.com/user-attachments/assets/2596669e-66cf-4b40-bd0e-c79532a342d0" width="180"></a>
+		</td>
+		<td valign="top" style="padding-bottom: 16px;">
+			<strong>Discovering Quality-Diversity Algorithms via Meta-Black-Box Optimization</strong>
+			<br><br>
+			<a href="https://arxiv.org/abs/2502.02190"><img alt="Paper" src="https://img.shields.io/badge/Paper-B31B1B?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" /></a>
+			<a href="https://github.com/maxencefaldor/learned-qd"><img alt="Code" src="https://img.shields.io/badge/Code-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
+			<a href="https://x.com/maxencefaldor/status/1907390364249649172"><img alt="Post" src="https://img.shields.io/badge/Post-000000?style=for-the-badge&logo=X&logoColor=white" /></a>
+		</td>
+	</tr>
+	<tr>
+		<td valign="top" style="padding-bottom: 16px;">
+			<a href="#"><img alt="leniabreeder" src="https://github.com/user-attachments/assets/4d3da82a-e98b-490d-abd2-7247e1ebe064" width="180"></a>
+		</td>
+		<td valign="top" style="padding-bottom: 16px;">
+			<strong>Toward Artificial Open-Ended Evolution within Lenia using Quality-Diversity</strong>
+			<br><br>
+			<a href="#"><img alt="Paper" src="https://img.shields.io/badge/Paper-B31B1B?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" /></a>
+			<a href="#"><img alt="Code" src="https://img.shields.io/badge/Code-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
+			<a href="#"><img alt="Website" src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+			<a href="#"><img alt="Post" src="https://img.shields.io/badge/Post-000000?style=for-the-badge&logo=X&logoColor=white" /></a>
+		</td>
+	</tr>
+	<tr>
+		<td valign="top" style="padding-bottom: 16px;">
+			<a href="#"><img alt="cax-ezgif com-optimize" src="https://github.com/user-attachments/assets/d84b3b46-e00e-4b4a-877d-c1b7d8b7b3c0" width="180"></a>
+		</td>
+		<td valign="top" style="padding-bottom: 16px;">
+			<strong>CAX: Cellular Automata Accelerated in JAX</strong>
+			<br><br>
+			<a href="https://arxiv.org/abs/2406.04235"><img alt="Paper" src="https://img.shields.io/badge/Paper-B31B1B?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" /></a>
+			<a href="https://github.com/maxencefaldor/Leniabreeder"><img alt="Code" src="https://img.shields.io/badge/Code-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
+			<a href="https://leniabreeder.github.io/"><img alt="Website" src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+			<a href="https://x.com/maxencefaldor/status/1803803486179434642"><img alt="Post" src="https://img.shields.io/badge/Post-000000?style=for-the-badge&logo=X&logoColor=white" /></a>
+		</td>
+	</tr>
 </table>
 
 ## ICARL 🎤
