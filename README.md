@@ -2,22 +2,13 @@
 
 I am Maxence Faldor, currently a research scientist intern at [Sakana AI](https://sakana.ai/). I am pursuing a PhD at [Imperial College London](https://www.imperial.ac.uk) in the [Adaptive and Intelligent Robotics](https://www.imperial.ac.uk/adaptive-intelligent-robotics/) lab. I am interested in 🧠 Artificial Intelligence ✨ Open-endedness 🦾 Robotics 🦎 Emergence. My research focuses on building open-ended and self-improving systems.
 
-<a href="https://x.com/maxencefaldor" target="_blank">
-	<img alt="X" src="https://img.shields.io/badge/Account-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/maxencefaldor/" target="_blank">
-	<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" />
-</a>
-<a href="https://scholar.google.com/citations?user=s36pCYsAAAAJ&hl=en" target="_blank">
-	<img alt="Google Scholar" src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" />
-</a>
-<a href="mailto:maxencefaldor@gmail.com">
-	<img alt="Gmail" src="https://img.shields.io/badge/Email-808080?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
 ## Research Highlights 📄
 
 I am passionate about building intelligent systems that can learn, discover, and create in an open-ended fashion. Below are some of my projects in this area.
+
+<a href="https://scholar.google.com/citations?user=s36pCYsAAAAJ&hl=en" target="_blank">
+	<img alt="Google Scholar" src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" />
+</a>
 
 ---
 
