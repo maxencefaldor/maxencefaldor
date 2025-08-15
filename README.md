@@ -10,8 +10,6 @@ I am passionate about building intelligent systems that can learn, discover, and
 	<img alt="Google Scholar" src="https://img.shields.io/badge/Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" />
 </a>
 
----
-
 <table>
 	<colgroup>
 		<col width="200">
@@ -82,25 +80,16 @@ I am passionate about building intelligent systems that can learn, discover, and
 	</tr>
 </table>
 
-## 💻 Tech Stack
-
-<p>
-	<img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-	<img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-	<img alt="JAX" src="https://img.shields.io/badge/JAX-FF8E00?style=for-the-badge&logo=JAX&logoColor=black" />
-	<img alt="CUDA" src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
-</p>
-
 ## 🎤 ICARL
 
 <a href="https://icarl.doc.ic.ac.uk" target="_blank">
 	<img alt="ICARL logo" src="https://github.com/user-attachments/assets/ccc624a2-85af-4dc3-866d-00ab6a2b8183" width="100" align="left" />
 </a>
 
-I am one of the organizers of **ICARL** (Imperial College Autonomous Reasoning & Learning), a student-led initiative at Imperial College London. Our goal is to foster a vibrant community for students and researchers interested in the future of AI and robotics.
+I am one of the organizers of **ICARL** (Imperial College Autonomous Reasoning & Learning), a student-led initiative at Imperial College London. Our goal is to foster a vibrant community for students and researchers interested in the future of AI.
 
 Our main activities include:
-- 🎥 **Seminar Series**: We invite leading researchers from academia and industry (sponsored by **DeepMind**, **InstaDeep**, and **Iconic**) to share their work. Past talks are uploaded to our [YouTube channel](https://www.youtube.com/@ICARLSeminars).
+- 🎥 **Seminar Series**: We invite leading researchers from academia and industry (sponsored by **Google DeepMind**, **InstaDeep**, and **Iconic**) to share their work. Past talks are uploaded to our [YouTube channel](https://www.youtube.com/@ICARLSeminars).
 - 📚 **Reading Group**: We meet bi-weekly to discuss recent publications in Deep Reinforcement Learning, Generative AI, and Autonomous Agents. The group is open to everyone—feel free to get in touch!
 
 Follow our activities and join our community through our official channels:
