@@ -92,6 +92,19 @@ Complementing my scientific inquiry, I bridge the rigorous with the aesthetic th
 			<a href="https://x.com/maxencefaldor/status/1842211478796918945"><img alt="Post" src="https://img.shields.io/badge/Post-000000?style=for-the-badge&logo=X&logoColor=white" /></a>
 		</td>
 	</tr>
+	<tr>
+		<td valign="top" style="padding-bottom: 16px;">
+			<a href="https://arxiv.org/abs/2310.12103"><img alt="QDAC media" src="https://github.com/user-attachments/assets/e36752d3-9cb8-4260-9231-b88b24214980" width="180"></a>
+		</td>
+		<td valign="top" style="padding-bottom: 16px;">
+			<strong>Quality-Diversity Actor-Critic: Learning High-Performing and Diverse Behaviors via Value and Successor Features Critics</strong>
+			<br><br>
+			<a href="https://arxiv.org/abs/2403.09930"><img alt="Paper" src="https://img.shields.io/badge/Paper-B31B1B?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" /></a>
+			<a href="https://github.com/adaptive-intelligent-robotics/QDAC"><img alt="Code" src="https://img.shields.io/badge/Code-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
+			<a href="https://adaptive-intelligent-robotics.github.io/QDAC/"><img alt="Website" src="https://img.shields.io/badge/Website-003E74?style=for-the-badge&logo=world&logoColor=white" /></a>
+			<a href="https://x.com/LucaGrillotti/status/1810623476283166925"><img alt="Post" src="https://img.shields.io/badge/Post-000000?style=for-the-badge&logo=X&logoColor=white" /></a>
+		</td>
+	</tr>
 </table>
 
 ## 🎤 ICARL
