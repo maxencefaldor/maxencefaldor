@@ -1,14 +1,28 @@
 # Hi there 👋
 
-I am Maxence Faldor, currently a research scientist intern at [Sakana AI](https://sakana.ai/). I am pursuing a PhD at [Imperial College London](https://www.imperial.ac.uk) in the [Adaptive and Intelligent Robotics](https://www.imperial.ac.uk/adaptive-intelligent-robotics/) lab. I am interested in 🧠 Artificial Intelligence ✨ Open-endedness 🦾 Robotics 🦎 Emergence. My research focuses on building open-ended and self-improving systems.
+I am currently a research scientist intern at [Sakana AI](https://sakana.ai/) and doing a PhD at [Imperial College London](https://www.imperial.ac.uk) in the [Adaptive and Intelligent Robotics](https://www.imperial.ac.uk/adaptive-intelligent-robotics/) lab. My research focuses on building open-ended and self-improving systems.
 
-## 📄 Research Highlights
+### 🧠 General Intelligence
 
-I am passionate about building intelligent systems that can learn, discover, and create in an open-ended fashion. Below are some of my projects in this area.
+I am driven by the quest to understand **General Intelligence** and replicate it *in silico*. I view this challenge not as one of manual design, but of discovering the minimal set of simple conditions and algorithms capable of bootstrapping themselves from simplicity to high-level intelligence.
 
-<a href="https://scholar.google.com/citations?user=s36pCYsAAAAJ&hl=en" target="_blank">
-	<img alt="Google Scholar" src="https://img.shields.io/badge/Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" />
-</a>
+### ♾️ Open-endedness
+
+This search for self-bootstrapping algorithms points inevitably toward **Open-endedness**, though its significance extends far beyond general intelligence. The pursuit of open-ended systems touches on fundamental questions regarding the nature of creativity, the potential for novel solutions to emerge in artificial systems that could inspire new technologies, and the emergence of complexity.
+
+### 🧬 Emergence
+
+Central to understanding these systems is **Emergence**. My fascination lies in how intricate behaviors can self-organize from simple interactions — a phenomenon that offers key insights into the origins of life, the definition of artificial life, and the roots of intelligence itself. To model this, I develop high-performance substrates, using them to observe the spontaneous rise of complexity.
+
+### ✨ Consciousness
+
+I am also deeply interested in the emergence of **Consciousness**. My exploration integrates philosophy, metamathematics, and physics. Furthermore, I am driven to understand the mind itself, investigating the nature of subjective experience through meditation and the study of psychedelics.
+
+### 🎨 Art
+
+Complementing my scientific inquiry, I bridge the rigorous with the aesthetic through **Art**. I harbor a deep appreciation for digital art and creative computation, specifically regarding their ability to visualize the beauty of complex, self-organizing systems.
+
+## 👨‍🔬 Research <a href="https://scholar.google.com/citations?user=s36pCYsAAAAJ&hl=en" target="_blank"><img alt="Google Scholar" src="https://img.shields.io/badge/Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" /></a>
 
 <table>
 	<colgroup>
@@ -86,7 +100,7 @@ I am passionate about building intelligent systems that can learn, discover, and
 	<img alt="ICARL logo" src="https://github.com/user-attachments/assets/ccc624a2-85af-4dc3-866d-00ab6a2b8183" width="100" align="left" />
 </a>
 
-I am one of the organizers of **ICARL** (Imperial College Autonomous Reasoning & Learning), a student-led initiative at Imperial College London. Our goal is to foster a vibrant community for students and researchers interested in the future of AI.
+I am an organizer of **ICARL** (Imperial College Autonomous Reasoning & Learning), a student-led initiative at Imperial College London. Our goal is to foster a vibrant community for students and researchers interested in the future of AI.
 
 Our main activities include:
 - 🎥 **Seminar Series**: We invite leading researchers from academia and industry (sponsored by **Google DeepMind**, **InstaDeep**, and **Iconic**) to share their work. Past talks are uploaded to our [YouTube channel](https://www.youtube.com/@ICARLSeminars).
