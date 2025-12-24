@@ -22,7 +22,7 @@ I am also deeply interested in the emergence of **Consciousness**. My exploratio
 
 Complementing my scientific inquiry, I bridge the rigorous with the aesthetic through **Art**. I have a deep appreciation for digital art and creative computation, specifically regarding their ability to visualize the beauty of complex, self-organizing systems.
 
-## 👨‍🔬 Research <a href="https://scholar.google.com/citations?user=s36pCYsAAAAJ&hl=en" target="_blank"><img alt="Google Scholar" src="https://img.shields.io/badge/Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" /></a>
+## 👨‍🔬 Research
 
 <table>
 	<colgroup>
